@@ -1,4 +1,3 @@
-
 scikit-learn==1.2.2
-pandas
- 
+streamlit>=1.22.0
+pandas==1.5.0
